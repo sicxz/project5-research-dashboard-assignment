@@ -10,6 +10,18 @@ Workflow:
 - **AntiGravity, Codex, or Claude Code:** Build + create + make
 - **GitHub Pages:** Deploy live
 
+## Guided Issue Path
+Follow the issues in order:
+
+- [ ] [Step 1: Converse and Ideate Your Build Prompt](../../issues/1)
+- [ ] [Step 2: Build the Base Research Dashboard in AntiGravity](../../issues/2)
+- [ ] [Step 3: Create Art Direction and Redesign Pass](../../issues/3)
+- [ ] [Step 4: Add 2+ Feature Upgrades](../../issues/4)
+- [ ] [Step 5: Push Your Dashboard to GitHub](../../issues/5)
+- [ ] [Step 6: Deploy with GitHub Pages](../../issues/6)
+- [ ] [Step 7: Submit to Milanote + Reflection](../../issues/7)
+- [ ] [Prompt Evidence and QA Checklist](../../issues/8)
+
 ## What You Are Building
 A static research dashboard site (`HTML`, `CSS`, `JS` only) that supports:
 - Tracking readings and sources
